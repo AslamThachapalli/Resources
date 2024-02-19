@@ -9,3 +9,5 @@
 - [Customising tooltip - This thread has a reference to the overlay anchor arrow](https://stackoverflow.com/questions/56644714/customising-flutter-tooltip)
 ### Animations
 - [Flutter Flip Animation](https://medium.com/flutter-community/flutter-flip-card-animation-eb25c403f371)
+### Lerps
+- [Stackoverflow answer](https://stackoverflow.com/questions/61890185/how-to-use-lerp-method-in-flutter-and-what-are-the-use-cases)
