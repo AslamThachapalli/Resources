@@ -1,6 +1,7 @@
 ## Performance and Architecture
 - [Load sequence, performance, and memory](https://docs.flutter.dev/add-to-app/performance)
 - [Inside Flutter](https://docs.flutter.dev/resources/inside-flutter)
+- [Modularized dependency injection](https://itnext.io/flutter-modularized-dependency-injection-4362649f84ed)
 
 ## UI
 ### Overlays
