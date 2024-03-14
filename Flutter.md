@@ -13,6 +13,8 @@
 - [Flutter Flip Animation](https://medium.com/flutter-community/flutter-flip-card-animation-eb25c403f371)
 ### Lerps
 - [Stackoverflow answer](https://stackoverflow.com/questions/61890185/how-to-use-lerp-method-in-flutter-and-what-are-the-use-cases)
+### Navigation
+- [Navigator 2.0](https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade)
 
 ## Dart JS
 - [Js Interop with EventHandlers](https://dart.academy/easy-javascript-interop-without-dart-wrappers/)
