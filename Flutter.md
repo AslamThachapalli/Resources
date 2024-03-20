@@ -1,3 +1,7 @@
+## What's New
+[Flutter 3.19](https://medium.com/flutter/whats-new-in-flutter-3-19-58b1aae242d2)
+[Build with Gemini - Medium](https://medium.com/flutter/harness-the-gemini-api-in-your-dart-and-flutter-apps-00573e560381)
+
 ## Performance and Architecture
 - [Load sequence, performance, and memory](https://docs.flutter.dev/add-to-app/performance)
 - [Inside Flutter](https://docs.flutter.dev/resources/inside-flutter)
@@ -18,3 +22,6 @@
 
 ## Dart JS
 - [Js Interop with EventHandlers](https://dart.academy/easy-javascript-interop-without-dart-wrappers/)
+
+## Security
+[Store Api Keys in Flutter](https://codewithandrea.com/articles/flutter-api-keys-dart-define-env-files/)
