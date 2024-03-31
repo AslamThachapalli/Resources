@@ -1,3 +1,8 @@
+## Flutter Web
+### Service worker cache
+- [browser refresh without clearing cache](https://github.com/flutter/flutter/issues/57391#issuecomment-981060296)
+- [update version to prevent cache](https://github.com/flutter/flutter/issues/71333f)
+
 ## What's New
 - [Flutter 3.19](https://medium.com/flutter/whats-new-in-flutter-3-19-58b1aae242d2)
 - [Build with Gemini - Medium](https://medium.com/flutter/harness-the-gemini-api-in-your-dart-and-flutter-apps-00573e560381)
