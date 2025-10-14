@@ -1,4 +1,4 @@
-# What happens when you run npm run build in a React app?
+## What happens when you run npm run build in a React app?
 
 ### 1. What a bundler or build tool (Vite/Webpack/Rollup) actually does?
 - A **Bundler**
@@ -43,3 +43,19 @@ To simulate production hosting in localhost:
 - Run `serve dist/`.
 - Visit `http://localhost:3000`.
 This simulates production hosting.
+
+### 5. Environment variables (Frontend vs Backend)
+- In backend (Node.js), env variables are secret (DB password, API keys).
+- In frontend, env variables are baked into the bundle at build time (not secure). \
+  Example: VITE_API_URL="https://api.myapp.com" → code gets replaced with this string in final JS. 
+
+👉 So frontend envs are more about switching configs between dev/staging/prod, not about secrets.
+
+### 6. Bringing it together
+So the full flow is:
+- You write React components (modern JS + JSX).
+- Bundler (Vite/Rollup) compiles & bundles → outputs static files (dist/).
+- A web server/CDN hosts those files.
+- Browser downloads & renders the app.
+- Environment configs decide which backend it talks to (dev/staging/prod). \
+That’s the fundamental cycle.
